@@ -22,3 +22,4 @@ Excel for data extraction and transformation.
 Data visualization tool Power BI to present findings.
 Statistical analysis to identify patterns and forecast trends.
 This repository provides a comprehensive analysis framework to better understand and improve the revenue performance of a hospitality business.
+
